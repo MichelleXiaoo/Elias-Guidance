@@ -19,7 +19,7 @@ nav li {
   padding: 0 20px;
 }
 
-a {
+.navbar {
   text-decoration: none;
   color: #607984;
   font-size: 20px; 
@@ -110,9 +110,15 @@ H1 {
 
 #contact {
   width: 90%;
-  padding: 20px 0;
+  padding: 40px 0;
   margin: 0 auto;
   color: #607984;
   text-align: center;
+  line-height: 10px;
 }
 
+.back2top {
+  font-size: 14px;
+  font-weight: 600;
+  color:rgb(229, 105, 47);
+}
